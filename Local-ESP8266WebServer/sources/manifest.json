@@ -1,0 +1,23 @@
+{
+  "short_name": "SmartLamp",
+  "name": "SmartLamp",
+  "description": "Aplikasi Pintar Berbasis IoT terintegrasi dengan Lampu Hias",
+  "icons": [
+    {
+      "src": "/img/icons-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/img/icons-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#212121",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "theme_color": "#212121"
+}

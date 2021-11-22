@@ -1,0 +1,2 @@
+char manifest_json[] =
+"{\"short_name\": \"Hoki SmartLamp\", \"name\": \"Hoki SmartLamp\", \"description\": \"Aplikasi Lampu Hias Pintar Berbasis Android\", \"icons\": [{\"src\": \"/img/icons-192.png\", \"type\": \"image/png\", \"sizes\": \"192x192\"},{\"src\": \"/img/icons-512.png\", \"type\": \"image/png\", \"sizes\": \"512x512\"}], \"start_url\": \"/\", \"background_color\": \"#212121\", \"display\": \"standalone\", \"orientation\": \"portrait\", \"scope\": \"/\", \"theme_color\": \"#212121\"}";
